@@ -59,11 +59,14 @@ Developed by:Prathikshaa.S RegisterNumber:24007902
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/user-attachments/assets/093b0ba5-4b62-4446-bd38-58703274542d)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/user-attachments/assets/db7d1ff2-4944-4852-8ec4-38418da88830)
+**TIMING DIAGRAMS FOR FLIP FLOPS**
+
+![image](https://github.com/user-attachments/assets/449911e7-896a-4e1c-ad9d-bdacd67f9e57)
+
 
 
 **RESULTS**
